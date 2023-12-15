@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/landing-jewelry/static/css/main.4fed1b5e.css",
-    "main.js": "/landing-jewelry/static/js/main.48cee312.js",
+    "main.js": "/landing-jewelry/static/js/main.5fb41464.js",
     "static/js/787.757acb20.chunk.js": "/landing-jewelry/static/js/787.757acb20.chunk.js",
     "static/media/background.jpg": "/landing-jewelry/static/media/background.a9f760f12e91fab8d425.jpg",
     "static/media/silver-gemstone-ring.png": "/landing-jewelry/static/media/silver-gemstone-ring.45e9707298fb0d123324.png",
     "static/media/logo.svg": "/landing-jewelry/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/landing-jewelry/index.html",
     "main.4fed1b5e.css.map": "/landing-jewelry/static/css/main.4fed1b5e.css.map",
-    "main.48cee312.js.map": "/landing-jewelry/static/js/main.48cee312.js.map",
+    "main.5fb41464.js.map": "/landing-jewelry/static/js/main.5fb41464.js.map",
     "787.757acb20.chunk.js.map": "/landing-jewelry/static/js/787.757acb20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fed1b5e.css",
-    "static/js/main.48cee312.js"
+    "static/js/main.5fb41464.js"
   ]
 }
