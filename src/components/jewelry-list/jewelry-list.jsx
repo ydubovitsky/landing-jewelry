@@ -10,7 +10,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/1.jpg'
+    imgUrl: '/public/assets/jewelry/1.jpg'
   },
   {
     id: 1,
@@ -21,7 +21,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/2.jpg'
+    imgUrl: '/public/assets/jewelry/2.jpg'
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/3.jpg'
+    imgUrl: '/public/assets/jewelry/3.jpg'
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/4.jpg'
+    imgUrl: '/public/assets/jewelry/4.jpg'
   },
   {
     id: 0,
@@ -54,7 +54,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/1.jpg'
+    imgUrl: '/public/assets/jewelry/1.jpg'
   },
   {
     id: 1,
@@ -65,7 +65,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/2.jpg'
+    imgUrl: '/public/assets/jewelry/2.jpg'
   },
   {
     id: 2,
@@ -76,7 +76,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/3.jpg'
+    imgUrl: '/public/assets/jewelry/3.jpg'
   },
   {
     id: 3,
@@ -87,7 +87,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/4.jpg'
+    imgUrl: '/public/assets/jewelry/4.jpg'
   },
   {
     id: 0,
@@ -98,7 +98,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/1.jpg'
+    imgUrl: '/public/assets/jewelry/1.jpg'
   },
   {
     id: 1,
@@ -109,7 +109,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/2.jpg'
+    imgUrl: '/public/assets/jewelry/2.jpg'
   },
   {
     id: 2,
@@ -120,7 +120,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/3.jpg'
+    imgUrl: '/public/assets/jewelry/3.jpg'
   },
   {
     id: 3,
@@ -131,7 +131,7 @@ const items = [
     rating: '4.8',
     commentsCount: 150,
     bonuses: 150,
-    imgUrl: '/assets/jewelry/4.jpg'
+    imgUrl: '/public/assets/jewelry/4.jpg'
   },
 ]
 
